@@ -1,0 +1,4 @@
+when you open the tool, it asks you for a webhook so you can afk when the tool is trying to get a nitro. then it will ask u if you want boost or classic 
+(more you ask, more it takes time).
+then when the bot has found a nitro it will send it to the webhook. 
+enjoy your nitro !
